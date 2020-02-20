@@ -18,7 +18,7 @@ About the data:
 
 link: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
-# Variable                   # Description
+-Variable                   -Description
 
 # Item_Identifier          :    Unique product ID
 # Item_Weight              :    Weight of product    	
